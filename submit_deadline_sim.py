@@ -96,7 +96,6 @@ for node in nodes:
     # main( batchname,filedir, filename, rop, framerange, 'fx', 90, '19.0', 2, 20, 'auto_MESH' )
     print('done---------------------------------------done')
 
-
-
+#single machine for sim
 
 
